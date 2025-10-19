@@ -1,5 +1,5 @@
 
-> Open this page at [https://codemaster589.github.io/project-3---flappy-bird/](https://codemaster589.github.io/project-3---flappy-bird/)
+> Open this page at [https://microbitcoder652.github.io/microbit-flappy-bird/](https://microbitcoder652.github.io/microbit-flappy-bird/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/codemaster589/project-3---flappy-bird** and import
+* search for **https://github.com/microbitcoder652/microbit-flappy-bird** and import
 
 ## Edit this project
 
